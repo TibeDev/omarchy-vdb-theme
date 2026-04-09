@@ -1,4 +1,5 @@
 # &lt;/VDB-THEME&gt;
+![Preview](preview.png)
 A theme for **[Omarchy](https://omarchy.org/)**
 
 ## //How to use?
