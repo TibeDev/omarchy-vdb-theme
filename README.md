@@ -1,6 +1,8 @@
 # &lt;/VDB-THEME&gt;
 ![Preview](preview.png)
 A theme for **[Omarchy](https://omarchy.org/)**
+<br>
+Based on the **[Batou](https://github.com/HANCORE-linux/omarchy-batou-theme) theme.**
 
 ## //How to install
 It's the same way as you would install another theme from Omarchy.
